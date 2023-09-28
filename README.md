@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sthor726
 - 〽️ Im a student at the University of Minnesota
-- 👀 I’m interested in web dev, game dev, and ML
+- 👀 I’m interested in game dev and ML
 - 📫 How to reach me --> sthor726@gmail.com
 
 <!---
