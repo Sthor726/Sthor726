@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sthor726
+- 👋 Hi, I’m Samuel Thorson
 - 〽️ Im a student at the University of Minnesota
 - 👀 I’m interested in game dev and ML
 - 📫 How to reach me --> sthor726@gmail.com
