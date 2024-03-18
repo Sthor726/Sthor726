@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Thorson
 - 〽️ Im a student at the University of Minnesota
-- 👀 I’m interested in game dev and ML
+- 👀 I’m interested in game dev and software engineering
 - 📫 How to reach me --> sthor726@gmail.com
 
 <!---
