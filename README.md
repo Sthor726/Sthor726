@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel Thorson
-- 〽️ Im a student at the University of Minnesota
+- 〽️ Im a senior at the University of Minnesota
 - 📫 How to reach me --> sthor726@gmail.com
 
 <!---
